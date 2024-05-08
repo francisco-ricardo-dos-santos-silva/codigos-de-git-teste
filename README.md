@@ -11,7 +11,7 @@ git status: mostra o status das mudanças como não rastreadas, modificadas ou p
 #    COMANDOS GIT:
 
 Iniciar o diretorio dentro da pasta selecionada no windows 11, abrir a pasta > clik com botao direito
-> mostrar mais opções> Git Bash Here
+> mostrar mais opções > Git Bash Here
 
 
 #   TECLE ENTER DEPOIS DE CADA COMANDO
